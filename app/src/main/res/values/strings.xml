@@ -33,6 +33,12 @@
     <string name="register_success">Register Success!</string>
     <string name="verification_dialog_message">Anda telah berhasil Verifikasi kode\nyang telah kami kirim</string>
     <string name="back_to_login">Back to Login</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Nama</string>
+    <string name="save">Simpan</string>
+    <string name="save_profile">Profil Berhasil Disimpan</string>
+    <string name="save_profile_desc">Anda telah berhasil menyimpan perubahan</string>
+    <string name="back_to_home">Kembali ke Home</string>
 
     
     //MenuItem
